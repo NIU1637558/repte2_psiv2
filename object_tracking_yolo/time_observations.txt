@@ -1,0 +1,4 @@
+Normal YOLO: 1.8-2.2
+step2 YOLO: 3.0-3.7, 0.25-0.3
+Grayscale YOLO: 3.8-4.2, 0.3-0.4
+Resizing YOLO:
